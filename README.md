@@ -5,7 +5,7 @@ A simple, responsive website showcasing various watches with their prices. Built
 
 # 🌐 Live Demo
 Check out the live demo here:
-[Watch Showcase UI]( https://mohitvaishnav56.github.io/The-Watches-Showcase/)
+[Watch Showcase UI](https://bhumikaparmar17.github.io/watch-showcase/)
 
 
 # 🛠️ Tech Stack
@@ -24,5 +24,5 @@ Check out the live demo here:
 </Ul>
 
 # Author
-Mohit Vaishnav
+Bhumika Parmar
 
