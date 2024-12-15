@@ -9,7 +9,7 @@ Check out the live demo here:
 
 
 # 🛠️ Tech Stack
-<ol>
+<ol start=5>
 <li>HTML</li>
 <li>CSS</li>
 <li>JS</li>
